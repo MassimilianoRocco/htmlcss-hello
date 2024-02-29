@@ -2,8 +2,18 @@ body{
     background-image: url(img/sc.jpg) ;
     background-size: cover;
 }
-
-h1{
-    background-color: black;
+header{
+    width: 500px;
+    background-color: rgb(128, 5, 5);
+    margin: auto;
     color: white;
+    text-align: center;
+}
+
+header h1{
+    display: inline;
+}
+
+#noworld{
+    text-decoration: line-through;
 }
